@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashishbdj/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishbdj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Ashishbdj/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ashishbdj/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashishbdj/leetcode/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashishbdj/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ashishbdj/leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
