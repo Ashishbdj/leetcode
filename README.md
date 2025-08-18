@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ashishbdj/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ashishbdj/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Ashishbdj/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Ashishbdj/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ashishbdj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashishbdj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Ashishbdj/leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Ashishbdj/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashishbdj/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ashishbdj/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
