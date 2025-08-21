@@ -1,26 +1,25 @@
 class Solution {
 public:
-    double fun(double x, int n)
+    double fun(double x, long long n)
     {
         if(n==0)
             return 1;
-        double half = fun(x, n / 2);
         if (n % 2 == 0)
         {
-            return half * half;
+            return fun(x*x , n/2);
 
         } else 
         {
-            return half * half * x;  
+            return x * fun(x , n-1);  
         } 
     }
     double myPow(double x, int n) {
-        
-        double ans=fun(x,n);
+        long long n1=n;
         if(n<0)
         {
-            return 1/ans;
+            n1=-n1;
+            return 1/fun(x,n1);;
         }
-        return ans;
+        return fun(x,n1);;
     }
 };
