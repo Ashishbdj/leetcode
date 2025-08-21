@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashishbdj/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashishbdj/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
