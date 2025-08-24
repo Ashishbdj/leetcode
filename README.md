@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ashishbdj/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashishbdj/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ashishbdj/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishbdj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ashishbdj/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ashishbdj/leetcode/tree/master/0344-reverse-string) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
