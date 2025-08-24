@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ashishbdj/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
+| [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ashishbdj/leetcode/tree/master/0344-reverse-string) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
