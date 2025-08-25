@@ -1,42 +1,49 @@
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
-        int m = mat.size();
-        int n = mat[0].size();
-        vector<int> result;
-        result.reserve(m * n);
-
-        int row = 0, col = 0;
-        bool up = true;  // direction flag
-
-        while (result.size() < m * n) {
-            result.push_back(mat[row][col]);
-
-            if (up) {
-                if (col == n - 1) {      // Hit right boundary
-                    row++;
-                    up = false;
-                } else if (row == 0) {  // Hit top boundary
-                    col++;
-                    up = false;
-                } else {                // Move up-right
-                    row--;
-                    col++;
-                }
-            } else {  // moving down
-                if (row == m - 1) {     // Hit bottom boundary
-                    col++;
-                    up = true;
-                } else if (col == 0) {  // Hit left boundary
-                    row++;
-                    up = true;
-                } else {                // Move down-left
-                    row++;
-                    col--;
-                }
+     bool up =true;
+     vector<int>ans;
+     int n=mat.size(),r=0;
+     int m=mat[0].size(),c=0;
+     while(r < n && c < m)
+     {
+        if(up)
+        {
+            while(r>0&&c<m-1)
+            {
+               ans.push_back(mat[r][c]);
+                r--;
+                c++;
+            }
+            ans.push_back(mat[r][c]);
+            if(c==m-1)
+            {
+                r++;
+                up=false;
+            }else{
+                c++;
+                up=false;
+            }
+        }else
+        {
+            while(r<n-1&&c>0)
+            {
+                ans.push_back(mat[r][c]);
+                r++;
+                c--;
+            }
+            ans.push_back(mat[r][c]);
+            if(r==n-1)
+            {
+                c++;
+                up=true;
+            }else
+            {
+                r++;
+                up=true;
             }
         }
-
-        return result;
+     }
+     return ans;
     }
 };
