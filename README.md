@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashishbdj/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ashishbdj/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
