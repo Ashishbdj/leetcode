@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashishbdj/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishbdj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ashishbdj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ashishbdj/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ashishbdj/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ashishbdj/leetcode/tree/master/0035-search-insert-position) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashishbdj/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Ashishbdj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ashishbdj/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashishbdj/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashishbdj/leetcode/tree/master/0344-reverse-string) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ashishbdj/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
