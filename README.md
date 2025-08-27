@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashishbdj/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ashishbdj/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ashishbdj/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ashishbdj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Ashishbdj/leetcode/tree/master/0498-diagonal-traverse) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ashishbdj/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishbdj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashishbdj/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
