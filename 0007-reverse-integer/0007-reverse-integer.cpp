@@ -7,7 +7,7 @@ public:
         {
             r=x%10;
             n=(n*10)+r;
-            if(n>2147483647||n<-2147483647) return 0;
+            if(n>INT_MAX||n<INT_MIN) return 0;
             x=x/10;
         }
         return n;
