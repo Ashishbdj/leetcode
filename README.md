@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/Ashishbdj/leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
