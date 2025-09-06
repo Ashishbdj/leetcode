@@ -8,7 +8,8 @@ public:
     {
         psum+=nums[i];
         int v = psum-k;
-        c+=presum[v];
+        if(presum.find(v)!=presum.end())
+            c+=presum[v];
         presum[psum]+=1;
     }
     return c;
