@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ashishbdj/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ashishbdj/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
+| [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/Ashishbdj/leetcode/tree/master/3830-find-closest-person) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashishbdj/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Ashishbdj/leetcode/tree/master/0498-diagonal-traverse) |
+| [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
 ## Union Find
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
