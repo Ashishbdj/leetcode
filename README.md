@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ashishbdj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashishbdj/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashishbdj/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ashishbdj/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ashishbdj/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ashishbdj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashishbdj/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
