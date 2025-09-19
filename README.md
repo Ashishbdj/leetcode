@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/Ashishbdj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashishbdj/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashishbdj/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashishbdj/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ashishbdj/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ashishbdj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ashishbdj/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ashishbdj/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashishbdj/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
