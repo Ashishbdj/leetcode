@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Ashishbdj/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashishbdj/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ashishbdj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ashishbdj/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ashishbdj/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ashishbdj/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ashishbdj/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ashishbdj/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ashishbdj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ashishbdj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ashishbdj/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ashishbdj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
