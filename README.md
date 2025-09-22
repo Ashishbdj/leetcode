@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ashishbdj/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Ashishbdj/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ashishbdj/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/Ashishbdj/leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Ashishbdj/leetcode/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishbdj/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishbdj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Ashishbdj/leetcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
 |  |
 | ------- |
