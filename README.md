@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashishbdj/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ashishbdj/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ashishbdj/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ashishbdj/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashishbdj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Ashishbdj/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ashishbdj/leetcode/tree/master/0205-isomorphic-strings) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishbdj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ashishbdj/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ashishbdj/leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Ashishbdj/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ashishbdj/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashishbdj/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ashishbdj/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ashishbdj/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ashishbdj/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashishbdj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashishbdj/leetcode/tree/master/0424-longest-repeating-character-replacement) |
