@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashishbdj/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ashishbdj/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Ashishbdj/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ashishbdj/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Ashishbdj/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ashishbdj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashishbdj/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ashishbdj/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Ashishbdj/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Ashishbdj/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ashishbdj/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ashishbdj/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Ashishbdj/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Ashishbdj/leetcode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
