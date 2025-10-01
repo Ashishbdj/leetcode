@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ashishbdj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1642-water-bottles](https://github.com/Ashishbdj/leetcode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashishbdj/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/Ashishbdj/leetcode/tree/master/3830-find-closest-person) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashishbdj/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ashishbdj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1048-clumsy-factorial](https://github.com/Ashishbdj/leetcode/tree/master/1048-clumsy-factorial) |
+| [1642-water-bottles](https://github.com/Ashishbdj/leetcode/tree/master/1642-water-bottles) |
 ## Union Find
 |  |
 | ------- |
