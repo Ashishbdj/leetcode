@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashishbdj/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashishbdj/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ashishbdj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ashishbdj/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ashishbdj/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ashishbdj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashishbdj/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ashishbdj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1018-largest-perimeter-triangle](https://github.com/Ashishbdj/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ashishbdj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ashishbdj/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ashishbdj/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ashishbdj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ashishbdj/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ashishbdj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ashishbdj/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ashishbdj/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Ashishbdj/leetcode/tree/master/0344-reverse-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ashishbdj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
